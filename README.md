@@ -33,8 +33,7 @@ Whether it's a new side project, a backend refactor, or a late-night idea turned
 
 Feel free to reach out:
 
-📫 Email: **joaocarloscorreia@protonmail.com**  
-🐦 Twitter: [@joaovbrandon](https://twitter.com/joaovbrandon)  
-💼 LinkedIn: [linkedin.com/in/joaocarloscorreia](https://linkedin.com/in/joaocarloscorreia)
+📫 Email: **devjoaocorreia@gmail.com**  
+💼 LinkedIn: [linkedin.com/in/joaocarloscorreia](https://www.linkedin.com/in/joao-carlos-correia/)
 
 > “Nothing has ever served despotism better than science and intellectual brilliance” – Dostoiévski  
