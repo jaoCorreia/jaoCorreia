@@ -37,4 +37,4 @@ Feel free to reach out:
 🐦 Twitter: [@joaovbrandon](https://twitter.com/joaovbrandon)  
 💼 LinkedIn: [linkedin.com/in/joaocarloscorreia](https://linkedin.com/in/joaocarloscorreia)
 
-> “The struggle itself toward the heights is enough to fill a man’s heart.” – Camus  
+> “Nothing has ever served despotism better than science and intellectual brilliance” – Dostoiévski  
