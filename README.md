@@ -6,7 +6,6 @@ Just a curious guy building cool stuff, writing clean code, and learning as much
 🎧 I write music when I'm not writing code  
 📖 I read philosophy and classic literature for fun (seriously)  
 🎮 I love good games, deep stories, and weird cinema  
-🛠️ Most of my projects are born from passion, not deadlines
 
 ---
 
