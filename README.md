@@ -9,7 +9,7 @@ Just a curious guy building cool stuff, writing clean code, and learning as much
 
 ---
 
-- Currently working on **[TrackMyPet](https://www.instagram.com/trackmypet.app/)** — an app designed to support pet care in daily routines 🐶
+🐶 Currently working on **[TrackMyPet](https://www.instagram.com/trackmypet.app/)** — an app designed to support pet care in daily routines 
 
 ---
 
