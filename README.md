@@ -15,8 +15,6 @@ Just a curious guy building cool stuff, writing clean code, and learning as much
 
 ## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with regularly:
-
 ### Languages & Runtime
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
