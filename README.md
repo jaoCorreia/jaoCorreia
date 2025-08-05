@@ -9,24 +9,7 @@ Just a curious guy building cool stuff, writing clean code, and learning as much
 🛠️ Most of my projects are born from passion, not deadlines
 
 ---
-
-## What I'm about
-
-I believe software is more than just syntax — it's about **creativity**, **craft**, and **connection**.  
-I started working when I was 15, and since then, I've been on a journey of building, learning, and trying to make something meaningful out of every line of code I write.
-
-Whether it's a new side project, a backend refactor, or a late-night idea turned into a prototype, I love the process.
-
----
-
-## Projects you'll find here
-
-- Tools I built to solve real-life problems  
-- Experiments with new tech stacks  
-- Music-related projects (yes, code & music can coexist)  
-- Bits of backend performance nerdiness  
-- Probably some half-finished stuff too (hey, life happens)
-
+- Currently working on **[TrackMyPet](https://www.instagram.com/trackmypet.app/)** — an app designed to support pet care in daily routines 🐶
 ---
 
 ## Let's connect
@@ -35,5 +18,6 @@ Feel free to reach out:
 
 📫 Email: **devjoaocorreia@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/joaocarloscorreia](https://www.linkedin.com/in/joao-carlos-correia/)
+
 
 > “Nothing has ever served despotism better than science and intellectual brilliance” – Dostoiévski  
